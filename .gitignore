@@ -1,6 +1,9 @@
 # Created by https://www.gitignore.io/api/flask,venv,visualstudiocode,jetbrains+all
 # Edit at https://www.gitignore.io/?templates=flask,venv,visualstudiocode,jetbrains+all
 
+### MAC ###
+.DS_Store
+
 ### Flask ###
 instance/*
 !instance/.gitignore
